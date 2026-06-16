@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Coffee guide mark">
+  <defs>
+    <linearGradient id="bean" x1="20" x2="100" y1="18" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ef9b51"/>
+      <stop offset="0.54" stop-color="#d86f4c"/>
+      <stop offset="1" stop-color="#4b2f25"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="55" fill="#fffaf2"/>
+  <path d="M34 20c23-12 55 4 63 31 8 28-8 56-35 63-23 6-45-8-53-31C0 57 12 31 34 20Z" fill="url(#bean)"/>
+  <path d="M63 20c-6 18-3 31 8 42 9 9 10 22 1 37" fill="none" stroke="#fff3df" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="45" cy="55" r="4" fill="#2d1b16" opacity="0.65"/>
+  <circle cx="68" cy="53" r="4" fill="#2d1b16" opacity="0.65"/>
+  <path d="M46 73c9 8 22 8 32-1" fill="none" stroke="#2d1b16" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+</svg>
